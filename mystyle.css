@@ -1,0 +1,16 @@
+.paragraph { 
+   color:blue;
+   text-align: center;
+   float: right;
+   border: 3px solid black;
+   width: 300px;
+ }
+.pic {
+    float: left;
+    width:500px;
+    height:900px;
+}
+.header {
+    position: fixed;
+    color:yellow;
+}
